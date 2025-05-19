@@ -1,0 +1,21 @@
+title: Emre Karaberk
+url: "https://bardamu7335.github.io"
+baseurl: "/"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://bardamu7335.github.io"
+footer_text: "Page design by Emre Karaberk"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Contact"
+   link: "contact"
